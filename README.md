@@ -3,6 +3,8 @@
 ## Overview
 This Python script generates an HTML table for evaluating multiple models using their corresponding `.npy` files as input. It's particularly useful for comparing the performance of different models in a tabular format.
 
+## Comparison Sheet: [LINK](https://infogrowexx-my.sharepoint.com/:x:/g/personal/abhishek_suman_growexx_com/ESybgpmFKm5CurppUtJCuFYBB5AULjZECb5r_vu_bvZGIA?e=c6Sj4x)
+
 ## Features
 - Accepts multiple `.npy` files as input.
 - Generates an HTML table with evaluation metrics for each model.
